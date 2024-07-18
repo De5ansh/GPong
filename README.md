@@ -1,1 +1,1 @@
-# GPong
+# Glowing Pong
